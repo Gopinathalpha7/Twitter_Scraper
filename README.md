@@ -4,8 +4,3 @@ This tool simplifies the process of scraping Twitter data by the use of snscrape
 
 Disclaimer:- Education purpose only. 
 
-# Rquired library
-
-## Required library
-
-### Required library
