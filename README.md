@@ -21,25 +21,6 @@ Disclaimer:- Education purpose only.
 * snscrape.modules.twitter
 * pymongo
 
-## Tools
-
-* Visual Studio Code.
-* Python 3.11.0 or higher.
-* MongoDB software.
-
-
-### Visual Studio Code
-
-* Visual Studio Code (VS Code) is a free, open-source code editor developed by Microsoft. It has become one of the most popular code editors among developers due to its simplicity, flexibility, and powerful features.
-
-### MongoDB
-
-* MongoDB is a popular NoSQL document-oriented database that provides a flexible and scalable solution for storing and retrieving data. It uses a JSON-like format to store data in collections rather than tables as in traditional relational databases.
-
-### python
-
-* Python is a popular programming language that is known for its simplicity and ease of use. It was created by Guido van Rossum in the late 1980s and has since become one of the most widely used programming languages in the world. it is used for various applications like Web Development, Data Analysis, Machine Learning, Automation, Scientific Computing, Game Development.
-
 ### pandas
 
 * Pandas is a Python library that provides powerful tools for data analysis and manipulation. It is built on top of the NumPy library and provides a high-level interface for working with data in a variety of formats, including CSV, Excel, SQL databases, and JSON.
@@ -71,6 +52,25 @@ Disclaimer:- Education purpose only.
 * PyMongo is a Python library that allows you to interact with MongoDB, a popular NoSQL document database. It provides a simple and intuitive interface for connecting to MongoDB, querying data, and performing various database operations.
 
 * With PyMongo, you can connect to a MongoDB database by specifying the host, port, and database name. Once connected, you can perform various operations on the database, such as inserting, updating, and deleting documents.
+
+## Tools
+
+* Visual Studio Code.
+* Python 3.11.0 or higher.
+* MongoDB software.
+
+
+### Visual Studio Code
+
+* Visual Studio Code (VS Code) is a free, open-source code editor developed by Microsoft. It has become one of the most popular code editors among developers due to its simplicity, flexibility, and powerful features.
+
+### MongoDB
+
+* MongoDB is a popular NoSQL document-oriented database that provides a flexible and scalable solution for storing and retrieving data. It uses a JSON-like format to store data in collections rather than tables as in traditional relational databases.
+
+### python
+
+* Python is a popular programming language that is known for its simplicity and ease of use. It was created by Guido van Rossum in the late 1980s and has since become one of the most widely used programming languages in the world. it is used for various applications like Web Development, Data Analysis, Machine Learning, Automation, Scientific Computing, Game Development.
 
 # Features 
 
