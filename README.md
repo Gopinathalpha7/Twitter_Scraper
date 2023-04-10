@@ -131,4 +131,5 @@ you can able to download the data in a **csv**  or **json** format
 
 * https://www.linkedin.com/posts/gopinath-b-56a02b169_twitterscraping-scraping-twitter-activity-7051088597927530496-ftLP?utm_source=share&utm_medium=member_desktop
 
-![GUI](https://github.com/Gopinathalpha7/Twitter_Scraper/blob/master/GUI.png?raw=true)
+[![GUI](https://github.com/Gopinathalpha7/Twitter_Scraper/blob/master/GUI.png?raw=true)](https://www.linkedin.com/posts/gopinath-b-56a02b169_twitterscraping-scraping-twitter-activity-7051088597927530496-ftLP?utm_source=share&utm_medium=member_desktop)
+
