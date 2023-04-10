@@ -90,7 +90,8 @@ you can able to download the data in a **csv**  or **json** format
 ### Save to MongoDB
 * The application provides the option to store the data in the MongoDB server with the help of Pymongo library
 
-### GUI
+# GUI
+![GUI](https://github.com/Gopinathalpha7/Twitter_Scraper/blob/master/GUI.png?raw=true)
 
 
 # User guide
@@ -127,3 +128,5 @@ you can able to download the data in a **csv**  or **json** format
 * Overall, session state in Streamlit is a powerful feature that allows you to create more interactive and personalized apps. It provides a simple and intuitive interface for storing and retrieving user data across multiple sessions of a Streamlit app.
 
 # video link 
+
+https://www.linkedin.com/posts/gopinath-b-56a02b169_twitterscraping-scraping-twitter-activity-7051088597927530496-ftLP?utm_source=share&utm_medium=member_desktop
