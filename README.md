@@ -127,6 +127,8 @@ you can able to download the data in a **csv**  or **json** format
 
 * Overall, session state in Streamlit is a powerful feature that allows you to create more interactive and personalized apps. It provides a simple and intuitive interface for storing and retrieving user data across multiple sessions of a Streamlit app.
 
-# video link 
+# Video link 
 
-https://www.linkedin.com/posts/gopinath-b-56a02b169_twitterscraping-scraping-twitter-activity-7051088597927530496-ftLP?utm_source=share&utm_medium=member_desktop
+* https://www.linkedin.com/posts/gopinath-b-56a02b169_twitterscraping-scraping-twitter-activity-7051088597927530496-ftLP?utm_source=share&utm_medium=member_desktop
+
+![GUI](https://github.com/Gopinathalpha7/Twitter_Scraper/blob/master/GUI.png?raw=true)
