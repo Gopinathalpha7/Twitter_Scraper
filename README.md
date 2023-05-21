@@ -91,7 +91,7 @@ you can able to download the data in a **csv**  or **json** format
 * The application provides the option to store the data in the MongoDB server with the help of Pymongo library
 
 # GUI
-![GUI](https://github.com/Gopinathalpha7/Twitter_Scraper/blob/master/GUI.png?raw=true)
+![GUI](GUI.png)
 
 
 # User guide
